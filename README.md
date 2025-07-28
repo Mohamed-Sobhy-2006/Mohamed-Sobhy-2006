@@ -1,25 +1,23 @@
-
 <div align="center" width="50">
 
-<img src="https://raw.githubusercontent.com/Mohamed-Sobhy-ai/Mohamed-Sobhy-ai/main/hellocoders_mohamed_sobhy.gif" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/images/hello_mohamed_sobhy.png?raw=true" alt="Hello Coders" width="60%"/> <br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <details>
 <p><strong><summary>Busy coding & learning AI</summary></strong></p>
 
-<!-- Optional: Add your own Spotify embed -->
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=mohamed-sobhy&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/MohamedSobhy-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-sobhy-498053348) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-sobhy-498053348)
 
 </div>
 
-<hr>
+---
 
 ![tools_I_use](https://img.shields.io/badge/-🚀%20Tools%20I%20use-orange)
 
@@ -42,4 +40,3 @@ class MohamedSobhy extends Developer {
     "Platform": {"Windows"},
   };
 }
-``` 
