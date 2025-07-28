@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Mohamed Sobhy" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://raw.githubusercontent.com/Mohamed-Sobhy-2006/images/main/hellocoders_rounded.gif" alt="Mohamed Sobhy" width="60%"/> <br>
+<img src="https://raw.githubusercontent.com/Mohamed-Sobhy-2006/images/main/dev-working_rounded.gif" alt="Workspace" width="40%"/><br> 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=Mohamed-Sobhy-2006&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamed-Sobhy-2006&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
@@ -29,11 +29,11 @@ class About extends Me:
   }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Machine Learning & AI**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **AI and Data Science**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Programming, AI, or Mathematics**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on LinkedIn: **[Mohamed Sobhy](http://www.linkedin.com/in/mohamed-sobhy-498053348)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy solving complex problems with code.<br>
+-  <img alt="GIF" src="https://raw.githubusercontent.com/Mohamed-Sobhy-2006/images/main/Developer.gif" width="25" /> &nbsp; I’m currently learning **Machine Learning & AI**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://raw.githubusercontent.com/Mohamed-Sobhy-2006/images/main/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **AI and Data Science**. <br>
+- <img src="https://raw.githubusercontent.com/Mohamed-Sobhy-2006/images/main/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Programming, AI, or Mathematics**. <br>
+- <img src="https://raw.githubusercontent.com/Mohamed-Sobhy-2006/images/main/letterbox.gif" width="25" /> &nbsp; Find me on LinkedIn: **[Mohamed Sobhy](http://www.linkedin.com/in/mohamed-sobhy-498053348)**<br>
+- &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Mohamed-Sobhy-2006/images/main/lightning.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy solving complex problems with code.<br>
 
 <div align="center" >
 <a  href="https://github.com/Mohamed-Sobhy-2006">
