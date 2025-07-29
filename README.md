@@ -3,21 +3,23 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <details>
-<summary><strong>Busy coding & learning AI</strong></summary>
+<p><strong><summary>Busy coding & learning AI</summary></strong></p>
 
-<!-- Optional: Add your own Spotify embed -->
-<!-- Replace with your own Spotify ID if needed -->
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 </details>
 
-![Total Hits](https://komarev.com/ghpvc/?username=mohamed-sobhy&style=flat&color=orange&label=PROFILE+VIEWS)  
-[![Telegram badge](https://img.shields.io/badge/MohamedSobhy-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM_USERNAME)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-sobhy-498053348)
+![Totals Hits](https://komarev.com/ghpvc/?username=mohamed-sobhy&style=flat&color=orange&label=PROFILE+VIEWS)
+[![telegram badge](https://img.shields.io/badge/MohamedSobhy-grey?style=flat&logo=telegram)](https://t.me/@Eng_Mohamed_Sobhy_2006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-sobhy-498053348) <br>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/196LeU71Bx/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mohamed_sobhy2006)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mohamed_sobhy_2006?_t=ZS-8yQxBIy40ED&_r=1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/01278467845)
 
 </div>
 
----
+<hr>
 
 ![tools_I_use](https://img.shields.io/badge/-🚀%20Tools%20I%20use-orange)
 
