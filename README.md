@@ -33,12 +33,100 @@
 
 ```dart
 // About Me
-class MohamedSobhy extends Developer {
+class MohamedSobhy extends AIEngineer {
   const myTools = {
-    "Languages": {"C++", "Python", "Java"},
-    "Learning": {"Machine Learning", "Artificial Intelligence"},
-    "Strengths": {"Mathematics", "Problem Solving", "Logical Thinking"},
-    "Tools": {"VSCode", "Git"},
-    "Platform": {"Windows"},
+    "Languages": {
+      "Python", "C++", "Java", "SQL"
+    },
+
+    "AI & Machine Learning": {
+      "Machine Learning",
+      "Deep Learning",
+      "Scikit-learn",
+      "Feature Engineering",
+      "Model Evaluation",
+      "XGBoost"
+    },
+
+    "Deep Learning Frameworks": {
+      "TensorFlow",
+      "Keras",
+      "Neural Networks",
+      "CNNs"
+    },
+
+    "NLP & Computer Vision": {
+      "Natural Language Processing",
+      "Computer Vision",
+      "Image Classification"
+    },
+
+    "Generative AI": {
+      "LLMs",
+      "Prompt Engineering",
+      "RAG",
+      "Embeddings",
+      "Vector Databases",
+      "LangChain",
+      "ChromaDB"
+    },
+
+    "Data Science": {
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Exploratory Data Analysis",
+      "Data Cleaning"
+    },
+
+    "Tools & Technologies": {
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Streamlit",
+      "FastAPI",
+      "MySQL"
+    },
+
+    "Training Programs": {
+      "DEPI",
+      "NTI",
+      "ITI",
+      "Huawei"
+    },
+
+    "Soft Skills": {
+      "Problem Solving",
+      "Logical Thinking",
+      "Teamwork",
+      "Client Communication",
+      "Business English"
+    },
+
+    "Currently Exploring": {
+      "AI Agents",
+      "Advanced RAG",
+      "LLM Applications"
+    }
   };
 }
+```
+
+### About Me
+
+```markdown
+## 👨‍💻 About Me
+
+I'm Mohamed Sobhy, a Senior Computer Science student at the Faculty of Computers and Artificial Intelligence, Benha University, majoring in Artificial Intelligence. I'm passionate about building intelligent, data-driven applications that solve real-world problems.
+
+My technical interests span Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, and Generative AI, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI-powered applications. Through training and professional development programs such as DEPI, NTI, ITI, and Huawei, along with hands-on projects and freelance experience, I've developed practical skills in data preprocessing, AI model development and evaluation, and AI application development.
+
+Beyond my technical expertise, I have completed six freelance gigs through DEPI and NTI, strengthening my client communication, teamwork, project delivery, and Business English skills.
+```
+
+```
+
+**مهم:** كود `class MohamedSobhy extends AIEngineer` مجرد تنسيق شكلي لعرض المهارات في README، مش كود Python قابل للتشغيل. وكمان اتأكد إنك فعلًا استخدمت أدوات زي `TensorFlow` و`LangChain` و`ChromaDB` و`FastAPI` قبل ما تعرضها كمهارات عندك.
+```
+
