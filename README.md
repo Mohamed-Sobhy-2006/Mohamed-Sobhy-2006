@@ -125,8 +125,3 @@ My technical interests span Machine Learning, Deep Learning, Natural Language Pr
 Beyond my technical expertise, I have completed six freelance gigs through DEPI and NTI, strengthening my client communication, teamwork, project delivery, and Business English skills.
 ```
 
-```
-
-**مهم:** كود `class MohamedSobhy extends AIEngineer` مجرد تنسيق شكلي لعرض المهارات في README، مش كود Python قابل للتشغيل. وكمان اتأكد إنك فعلًا استخدمت أدوات زي `TensorFlow` و`LangChain` و`ChromaDB` و`FastAPI` قبل ما تعرضها كمهارات عندك.
-```
-
